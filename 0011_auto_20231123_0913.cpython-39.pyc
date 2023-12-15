@@ -1,0 +1,9 @@
+a
+    êİÔ_‘  ã                   @   s&   d dl mZmZ G dd„ dejƒZdS )é    )Ú
+migrationsÚmodelsc                   @   s0   e Zd ZdgZejddejdddddgZd	S )
+Ú	Migration)ÚschoolZ0010_notice_byÚnoticeÚbyr   é   T)ÚdefaultÚ
+max_lengthÚnull)Ú
+model_nameÚnameÚfieldN)	Ú__name__Ú
+__module__Ú__qualname__Údependenciesr   Ú
+AlterFieldr   Ú	CharFieldÚ
+operations© r   r   úQF:\codeastro\Django\SchoolManagement\school\migrations\0011_auto_20231123_0913.pyr      s   ÿıÿr   N)Ú	django.dbr   r   r   r   r   r   r   Ú<module>   s   

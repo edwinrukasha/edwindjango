@@ -1,0 +1,15 @@
+a
+    êİÔ_  ã                   @   s.   d dl mZmZ d dlZG dd„ dejƒZdS )é    )Ú
+migrationsÚmodelsNc                   @   s¤   e Zd ZdgZejdddejddejg d¢ddd	d
+ej	ddej
+dddddfde ¡ fdejddfdejddgddfdejejjjjddfgdgZdS )Ú	Migration)ÚschoolZ0002_teacherextra_statusÚstudentextraÚbranch)Ú
+model_nameÚnameÚcl)
+)Úoner   )Útwor   )Úthreer   )Úfourr   )Úfiver   )Úsixr   )Úsevenr   )Úeightr   )Úniner   )Útenr   r   é
+   )ÚchoicesÚdefaultÚ
+max_length)r   r	   ÚfieldÚ
+AttendanceÚidTFÚID)Úauto_createdÚprimary_keyÚ	serializeÚverbose_nameÚdate)r   Úpresent_status)ÚPresentr#   )ÚAbsentr$   )r   r   Ú
+student_idzschool.StudentExtra)Ú	on_deleteÚto)r	   ÚfieldsN)Ú__name__Ú
+__module__Ú__qualname__Údependenciesr   ÚRemoveFieldÚAddFieldr   Ú	CharFieldÚCreateModelÚ	AutoFieldÚ	DateFieldÚ
+ForeignKeyÚdjangoÚdbÚdeletionÚCASCADEÚ
+operations© r9   r9   úQF:\codeastro\Django\SchoolManagement\school\migrations\0003_auto_20231123_0939.pyr      s*   ÿşı
+ûşör   )Ú	django.dbr   r   Údjango.db.models.deletionr4   r   r9   r9   r9   r:   Ú<module>   s   
